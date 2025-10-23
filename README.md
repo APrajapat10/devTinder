@@ -4,7 +4,7 @@
 
 DevTinder is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
 
-🚀 **Live Demo**: [https://www.devtinder.engineer/](https://www.devtinder.engineer/)  
+🚀 **Live Demo**: [http://abhishek-prajapat-devtinder.duckdns.org/](http://abhishek-prajapat-devtinder.duckdns.org/)  
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@ devtinder/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/sharadindudas/devtinder.git
+git clone https://github.com/aprajapat10/devtinder.git
 cd devtinder
 ```
 
